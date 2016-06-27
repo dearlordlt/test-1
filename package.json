@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/dearlordlt/test-1#readme",
   "dependencies": {
+    "bootstrap": "^3.3.6",
     "jquery": "^3.0.0"
   }
 }
