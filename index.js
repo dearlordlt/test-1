@@ -8,3 +8,5 @@ such program
 var a = 100;
 a = !a;
 Pakeista
+
+jeigu as dar kazka pakeisiu cia
