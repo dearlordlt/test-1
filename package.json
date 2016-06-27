@@ -18,6 +18,7 @@
   "homepage": "https://github.com/dearlordlt/test-1#readme",
   "dependencies": {
     "bootstrap": "^3.3.6",
+    "browserify": "^13.0.1",
     "errorhandler": "^1.4.3",
     "jquery": "^3.0.0"
   },
