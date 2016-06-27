@@ -22,7 +22,8 @@
     "depcheck": "^0.6.3",
     "errorhandler": "^1.4.3",
     "grunt": "^1.0.1",
-    "jquery": "^3.0.0"
+    "jquery": "^3.0.0",
+    "lolex": "^1.5.0"
   },
   "devDependencies": {
     "sass-loader": "^4.0.0"
