@@ -21,7 +21,6 @@
     "browserify": "^13.0.1",
     "depcheck": "^0.6.3",
     "errorhandler": "^1.4.3",
-    "html-pdf": "^2.0.1",
     "grunt": "^1.0.1",
     "jquery": "^3.0.0"
   },
